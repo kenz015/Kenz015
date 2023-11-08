@@ -1,4 +1,4 @@
-## Seja muito bem-vindo ao meu perfil! É um prazer tê-lo aqui. Meu nome é *Gustavo Kenzo* e aqui você acompanhará minha evolução no mundo da programação 🔥
+## Seja muito bem-vindo ao meu perfil! É um prazer tê-lo aqui. Meu nome é *Gustavo Kenzo*
 
 - 🔭 Atualmente estou estudando na Alura
 - 📫 Como entrar em contato comigo: gustavokdbo@gmail.com
