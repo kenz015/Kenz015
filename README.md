@@ -1,6 +1,6 @@
 ## Seja muito bem-vindo ao meu perfil! É um prazer tê-lo aqui. Meu nome é *Gustavo Kenzo*
 
-- 🔭 Atualmente estou estudando na Alura
+- 🔭 Atualmente estou cursando SI na Unisanta e aprimorando minhas habilidades com a escola de tecnologia Alura.
 - 📫 Como entrar em contato comigo: gustavokdbo@gmail.com
 
 <div
